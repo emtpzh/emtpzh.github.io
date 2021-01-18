@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>http://example.org/posts/</link>
+    <link>emtpzh.com/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jan 2021 18:41:43 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 17 Jan 2021 18:41:43 +0800</lastBuildDate><atom:link href="emtpzh.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://example.org/posts/about/</link>
+      <link>emtpzh.com/posts/about/</link>
       <pubDate>Sun, 17 Jan 2021 18:41:43 +0800</pubDate>
       
-      <guid>http://example.org/posts/about/</guid>
+      <guid>emtpzh.com/posts/about/</guid>
       <description>🍌</description>
     </item>
     
