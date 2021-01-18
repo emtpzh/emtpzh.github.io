@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
+    <title>Posts on EMTPZH</title>
     <link>//emtpzh.com/posts/</link>
-    <description>Recent content in Posts on </description>
+    <description>Recent content in Posts on EMTPZH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 17 Jan 2021 18:41:43 +0800</lastBuildDate><atom:link href="//emtpzh.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jan 2021 18:41:43 +0800</lastBuildDate><atom:link href="//emtpzh.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>//emtpzh.com/posts/about/</link>
-      <pubDate>Sun, 17 Jan 2021 18:41:43 +0800</pubDate>
+      <title>长得像狮子的汉堡狗</title>
+      <link>//emtpzh.com/posts/2021-01-18/</link>
+      <pubDate>Mon, 18 Jan 2021 18:41:43 +0800</pubDate>
       
-      <guid>//emtpzh.com/posts/about/</guid>
-      <description>🍌</description>
+      <guid>//emtpzh.com/posts/2021-01-18/</guid>
+      <description></description>
     </item>
     
   </channel>

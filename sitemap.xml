@@ -3,26 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//emtpzh.com/</loc>
-    <lastmod>2021-01-17T18:41:43+08:00</lastmod>
+    <loc>//emtpzh.com/tags/daily/</loc>
+    <lastmod>2021-01-18T18:41:43+08:00</lastmod>
   </url>
   
   <url>
-    <loc>//emtpzh.com/posts/about/</loc>
-    <lastmod>2021-01-17T18:41:43+08:00</lastmod>
+    <loc>//emtpzh.com/</loc>
+    <lastmod>2021-01-18T18:41:43+08:00</lastmod>
   </url>
   
   <url>
     <loc>//emtpzh.com/posts/</loc>
-    <lastmod>2021-01-17T18:41:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//emtpzh.com/categories/</loc>
+    <lastmod>2021-01-18T18:41:43+08:00</lastmod>
   </url>
   
   <url>
     <loc>//emtpzh.com/tags/</loc>
+    <lastmod>2021-01-18T18:41:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//emtpzh.com/posts/2021-01-18/</loc>
+    <lastmod>2021-01-18T18:41:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//emtpzh.com/categories/</loc>
   </url>
   
 </urlset>
